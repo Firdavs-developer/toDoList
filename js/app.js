@@ -59,7 +59,7 @@ elTodoBtn.addEventListener("click", function(){
         isCompleted: false,
     };
 
-    if(elTodoInput.length = 0){
+    if(inputValue.length = 0){
         alert("Siz inputga malumot qo'shmadiz");
         return;
     }
